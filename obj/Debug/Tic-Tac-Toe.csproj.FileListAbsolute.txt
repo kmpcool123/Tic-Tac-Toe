@@ -1,0 +1,12 @@
+C:\Users\khali\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Users\khali\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\khali\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\khali\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\khali\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\khali\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Eleven-Fifty\Gold Badge\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Eleven-Fifty\Gold Badge\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Eleven-Fifty\Gold Badge\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Eleven-Fifty\Gold Badge\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+C:\Eleven-Fifty\Gold Badge\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Eleven-Fifty\Gold Badge\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
